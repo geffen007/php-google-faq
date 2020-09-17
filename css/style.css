@@ -23,8 +23,8 @@ header{
     height: 100px;
     width: 100vw;
     position: fixed;
-    position: relative;
     border-bottom: 1px solid rgba(151,151,151,0.5);
+    background-color: white;
 
 }
 
@@ -57,6 +57,10 @@ header{
   border-bottom: 3px solid #3367d6;
   color: #3367d6;
 
+}
+
+main{
+    padding-top: 120px;
 }
 
 main .container {
