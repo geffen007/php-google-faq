@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+br {
+    margin-bottom: 25px;
+}
+
 body{
     font-family: 'Open Sans', sans-serif;
     color: #757575;
